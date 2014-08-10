@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/xavier/Project/singingbowl/app/build/intermediates/pre-dexed/debug/StartAppInApp-2.4.1-cc87b9ab0b189f1ee404fefd444a3103b04957d9.jar"
+        jar="/Users/xavier/Project/singingbowl/app/libs/StartAppInApp-2.4.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="12356c21c15e847fce0d686b7b2003be119816fe"/>
+    <item
+        dex="/Users/xavier/Project/singingbowl/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-08202da974824c4d0548aebb8a54c5ca1c6afef9.jar"
+        jar="/Users/xavier/adt-bundle-mac-x86_64/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/xavier/Project/singingbowl/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-d6f6e2bd64817b62dc58e973c288aa2c722df895.jar"
+        jar="/Users/xavier/Project/singingbowl/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/xavier/Project/singingbowl/app/build/intermediates/pre-dexed/debug/classes-689da2e4e86c83d9f66df04cbd87ffbbb5cfeb41.jar"
+        jar="/Users/xavier/Project/singingbowl/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>
